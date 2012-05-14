@@ -10,11 +10,13 @@ M2 (unreleased)
 * `Implicit hyperlinking`__ - `#1001002`_
 * `Infer Type of Structured Selection`__
 * Removed code generation groups from editor's context menu - `#1000972`_
+* Support syntax colouring of string interpolation literals and `macro` keyword - `#1001012`
 
 __ http://scala-ide.org/docs/helium/features/implicit-hyperlinking/index.html
 .. _#1001002: http://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1001002
 __ http://scala-ide.org/docs/helium/features/show-type.html
 .. _#1000972: http://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1000972
+.. _#1001012: http://scala-ide-portfolio.assembla.com/spaces/scala-ide/tickets/1001012
 
 M1 (released: 2012-04-13)
 .........................
